@@ -17,5 +17,14 @@ AI Article Summarizer is a web application that extracts and summarizes lengthy 
 
 🎨 User-friendly UI built with TailwindCSS.
 
+
+## Tech Stack
+
+Frontend: React, TailwindCSS
+
+State Management: Redux Toolkit
+
+API: RapidAPI 
+
 ## Table of contents
 
