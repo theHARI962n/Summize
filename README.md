@@ -26,5 +26,17 @@ State Management: Redux Toolkit
 
 API: RapidAPI 
 
-## Table of contents
+## Usage
+
+Paste the article URL in the input box.
+
+Click the submit button (↵) to generate a summary.
+
+View, copy, or revisit previous summaries from local storage.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+
 
